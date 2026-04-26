@@ -27,7 +27,7 @@
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/WarriorOfWhat/FCScanner/releases/download/v1.0.3.0/FCScanner.zip",
-  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FFXIVWheelSpinner/main/images/lopoicon.png"
+  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FCScanner/main/images/lopoicon.png"
 },
   {
   "InternalName": "Hostingway",
@@ -42,6 +42,6 @@
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.0.0/Hostingway.zip",
-  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FFXIVWheelSpinner/main/images/icon-hosting.png"
+  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png"
 },
 ]
