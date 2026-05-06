@@ -38,10 +38,10 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.0.2.1",
+  "AssemblyVersion": "1.0.3.0",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.2.1/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.3.0/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png"
 }
 ]
