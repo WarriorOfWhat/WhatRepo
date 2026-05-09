@@ -43,6 +43,5 @@
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.5.0/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png"
-  "Changelog": "- Added French and German localization support.\n- Fixed regex issues for limited /random rolls.\n- Updated UI typography for better accessibility."
 }
 ]
