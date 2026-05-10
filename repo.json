@@ -43,6 +43,6 @@
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.5.1/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "-Added Shouting way.\nFixed some bugs with gposing that created extra entries in Greetingway."
+  "Changelog": "-Added Shouting way.\n-Fixed some bugs with gposing that created extra entries in Greetingway."
 }
 ]
