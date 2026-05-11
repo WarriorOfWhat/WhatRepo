@@ -23,11 +23,11 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.0.6.0",
+  "AssemblyVersion": "1.0.6.1",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.6.0/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.0.6.1/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "- Updated Shoutingway to have dynamic templates."
+  "Changelog": "- Updated Greetingway to ensure Offline Guests can be reset, as well as added a clarification method about the safety lock on 'Greet', so people can't be greeted outside of the venue lock zone."
 }
 ]
