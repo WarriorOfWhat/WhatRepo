@@ -23,10 +23,10 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.2.0.2",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.2.0.0/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.2.0.2/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "- Added Quizzingway, a trivia assistant\n- Minor UI updated for clarity\n- Internal restructuring of the plug-in for easier modifications/additions"}
+  "Changelog": "- Updated Spinningway Settings to change spin duration from 1 to 15 seconds"}
 ]
