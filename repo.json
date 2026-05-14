@@ -23,10 +23,10 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.1.0.1",
+  "AssemblyVersion": "1.2.0.0",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.1.0.1/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.2.0.0/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "- Updated Randomway to allow the host to participate."}
+  "Changelog": "- Added Quizzingway, a trivia assistant\n- Minor UI updated for clarity\n- Internal restructuring of the plug-in for easier modifications/additions"}
 ]
