@@ -2,16 +2,16 @@
  {
   "InternalName": "Hostingway",
   "Name": "Hostingway",
-  "Description": "For venue managers to track guests and sync information with staff, and more.",
+  "Description": "For venue managers to track guests and sync information with staff, manage death roll tournaments, create shout templates, and more. Contact author at Mikenno on Discord for any assistance.",
   "Punchline": "A utility tool for venue managers.",
   "Author": "The Warrior of WHAT",
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.3.0.0",
+  "AssemblyVersion": "1.4.0.0",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.3.0.0/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.4.0.0/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "- Added Deathway, a Death Roll Tournament helper\n- Added Toggles in the settings to show/hide tabs to help with congestion\n- Added a Guide (Currently missing Deathway)"}
+  "Changelog": "- Added Payingway, a staff and ledger manager\n- Fixed the regex for German and French to properly detect random rolls again"}
 ]
