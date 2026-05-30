@@ -8,10 +8,10 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.4.0.2",
+  "AssemblyVersion": "1.4.0.3",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.4.0.2/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.4.0.3/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "- Added Time Last Used to Shoutingway.\n- Contact Mikenno @ Discord for any other features or bugs."}
+  "Changelog": "- Added a Skip button to Greetingway for Greet bypass \n- Contact Mikenno @ Discord for any other features or bugs"}
 ]
