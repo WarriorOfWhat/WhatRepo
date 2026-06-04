@@ -8,10 +8,10 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/Hostingway",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
-  "AssemblyVersion": "1.4.1.0",
+  "AssemblyVersion": "1.4.2.0",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.4.1.0/Hostingway.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/Hostingway/releases/download/v1.4.2.0/Hostingway.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/Hostingway/main/images/icon-hosting.png",
-  "Changelog": "Greetingway: Users can now Add Target or click a button in the columns that allows you to add/remove that person as a VIP. Their name will be purple if they're a VIP, and will turn white (standard) once greeted.\n Settings: Subsectioned Greetingway settings. Added a new greeting section for VIP-only greetings, as well as bulk-add VIPs.\n Contact Mikenno @ Discord for any other features or bugs ♥"}
+  "Changelog": "1.4.1.0 \n - Greetingway: Users can now Add Target or click a button in the columns that allows you to add/remove that person as a VIP. Their name will be purple if they're a VIP, and will turn white (standard) once greeted. \n - Settings: Subsectioned Greetingway settings. Added a new greeting section for VIP-only greetings, as well as bulk-add VIPs. \n 1.4.2.0 \n - Settings: VIP list now sorts alphabetically \n - Payingway: Now with Dropbox integration. If Dropbox is not installed, fallback is /trade <t> \n - Deathway: Reset Current Match added \n Contact Mikenno @ Discord for any other features or bugs ♥"}
 ]
